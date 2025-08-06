@@ -1,0 +1,9 @@
+#student-poratal-demo
+ This is a basic student portal application designed for student to:
+-Register and log in to their profile
+-view academic records and attendance
+-Submit assignments
+-Receive announcements and notification from faculty
+-Access study material and exam schedules
+
+The goal is to provide a centralized system for student and faculty to interact efficiently.
